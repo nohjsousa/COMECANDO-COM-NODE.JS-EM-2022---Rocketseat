@@ -1,0 +1,15 @@
+{
+  "name": "node-youtube",
+  "version": "1.0.0",
+  "description": "Primeiro proejto 2022 CodeDrops",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Jhon lima de sousa YouTube",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
